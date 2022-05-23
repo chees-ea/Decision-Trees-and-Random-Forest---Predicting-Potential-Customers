@@ -26,7 +26,7 @@ The data contains the different attributes of leads and their interaction detail
 
 **Data Dictionary**
 
-<mark>ID: ID of the lead<br>
+@@ID:@@ ID of the lead<br>
 age: Age of the lead<br>
 current_occupation: Current occupation of the lead. Values include 'Professional','Unemployed',and 'Student' <br>
 first_interaction: How did the lead first interact with ExtraaLearn. Values include 'Website', 'Mobile App'
