@@ -26,8 +26,8 @@ The data contains the different attributes of leads and their interaction detail
 
 **Data Dictionary**
 
-ID: ID of the lead
-age: Age of the lead
+ID: ID of the lead<br>
+age: Age of the lead<br>
 current_occupation: Current occupation of the lead. Values include 'Professional','Unemployed',and 'Student'
 first_interaction: How did the lead first interact with ExtraaLearn. Values include 'Website', 'Mobile App'
 profile_completed: What percentage of the profile has been filled by the lead on the website/mobile app. Values include Low - (0-50%), Medium - (50-75%), High (75-100%)
